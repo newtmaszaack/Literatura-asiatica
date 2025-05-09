@@ -1,0 +1,12 @@
+body{
+     font-family: Verdana;
+     background:url("img/fonde.jpg");
+     background-repeat:repeat;
+}
+
+div{
+    width:80%;
+    height:500px;
+    background: #ffffff;
+    margin:auto;
+}
